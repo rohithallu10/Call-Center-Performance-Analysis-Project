@@ -1,1 +1,2 @@
 # Call-Center-Performance-Analysis-Project
+Optimized call-centre performance by analyzing key metrics such as %RnR, %Connected Calls, Conversion Rate, and Revenue to improve sales efficiency and caller productivity. View the interactive dashboard here: [Power BI Report] (https://app.fabric.microsoft.com/view?r=eyJrIjoiMDUxZTA4YTktNGQ0Zi00MTNlLTkzZDktZjA1OGZmNTYyY2UyIiwidCI6IjA1YzEyZTk3LTlhNGQtNGVjZi1hYzc5LTc3ZTQ1MTU1ZTA0ZiJ9)
